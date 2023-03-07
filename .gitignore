@@ -1,0 +1,14 @@
+/node_modules
+/daos/products/ProductsDaoFileSystem.js
+/daos/products/ProductsDaoFirebase.js
+/daos/products/ProductsDaoMemory.js
+/daos/products/ProductsDaoSQL.js
+/daos/carts/CartsDaoSQL.js
+/daos/carts/CartsDaoFileSystem.js
+/daos/carts/CartsDaoFirebase.js
+/daos/carts/CartsDaoMemory.js
+/containers/ContainerSQL.js
+/containers/ContainerFileSystem.js
+/containers/ContainerFirebase.js
+/containers/ContainerMemory.js
+/db
