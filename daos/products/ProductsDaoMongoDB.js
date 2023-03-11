@@ -14,25 +14,23 @@ class ProductsDaoMongoDB extends ContainerMongoDB {
 
     createModel() {
         let schemaStructure = {
-            name: { type: String, required: true },
-            description: { type: String, required: true },
-            url: { type: String, required: true },
-            price: { type: Number, required: true },
-            stock: { type: Number, required: true },
-            id: { type: Number, required: true, unique: true },
             category: { type: String, required: true },
+            name: { type: String, required: true },
+            price: { type: Number, required: true },
+            description: { type: String, required: true },
             standards: { type: String },
             unit: { type: String, required: true },
+            url: { type: String, required: true },
             result: { type: String, required: true },
             materialRequired: { type: String },
+            stock: { type: Number, required: true },
             timestamp: { type: String, required: true },
-            codigo: { type: String, required: true }
+            code: { type: String, required: true },
+            id: {type: Number, required: true}
         }
         let schema = new mongoose.Schema(schemaStructure)
         return mongoose.model("productos", schema)
     }
 }
-
-
 
 export default ProductsDaoMongoDB

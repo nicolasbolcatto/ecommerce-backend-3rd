@@ -1,39 +1,12 @@
 import express from "express"
-const { Router } = express
 import passport from "passport"
-import { consoleLogger, fileLogger } from "../../log/logger.js"
+import { controllerLoginGet, controllerLoginPost, controllerLoginFailGet } from "../../controllers/auth/controllerLogin.js"
 
+const { Router } = express
 const routerLogin = new Router()
 const routerFailLogin = new Router()
-
-routerLogin.get("/", (req, res) => {
-
-    const {url, method } = req
-    consoleLogger.info(`Route = /login Method ${method}`)
-    try {
-        res.render("login")
-    } catch (error) {
-        fileLogger.warn(`Error en ruta ${method} ${url}: ${error}`)
-    }
-})
-
-routerLogin.post("/", passport.authenticate("login", { failureRedirect: "/fail-login", successRedirect: "/api/productos" }), (req, res) => {
-
-    const { method } = req
-    consoleLogger.info(`Route = /login Method ${method}`)
-
-})
-
-routerFailLogin.get("/", (req, res) => {
-
-    const {url, method } = req
-    consoleLogger.info(`Route = /login-error Method ${method}`)
-
-    try {
-        res.render("login-error")
-    } catch (error) {
-        fileLogger.warn(`Error en ruta ${method} ${url}: ${error}`)
-    }
-})
+routerLogin.get("/", controllerLoginGet)
+routerLogin.post("/", passport.authenticate("login", { failureRedirect: "/fail-login", successRedirect: "/api/productos" }), controllerLoginPost)
+routerFailLogin.get("/", controllerLoginFailGet)
 
 export { routerLogin, routerFailLogin }

@@ -787,3 +787,106 @@
 {"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
 {"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
 {"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
+{"level":"warn","message":"Error en la función getProductsInCart"}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot read properties of undefined (reading 'email')"}
+{"level":"warn","message":"Error en la función getProductsInCart"}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot read properties of undefined (reading 'email')"}
+{"level":"warn","message":"Error en la función getProductsInCart"}
+{"level":"warn","message":"Error en la función getProductsInCart"}
+{"level":"warn","message":"Error en la función getProductsInCart"}
+{"level":"warn","message":"Error en la función getProductsInCart"}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot read properties of undefined (reading 'email')"}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot read properties of undefined (reading 'email')"}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /3: ReferenceError: cartId is not defined"}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /6: ReferenceError: cartId is not defined"}
+{"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
+{"level":"warn","message":"Error en ruta GET /9: ReferenceError: cartId is not defined"}
+{"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Error en ruta GET /: TypeError: Cannot destructure property 'currentUser' of '(intermediate value)' as it is undefined."}
+{"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
+{"level":"warn","message":"Ruta GET /api/carritos/10/productos/18 no esta implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
+{"level":"warn","message":"Error en ruta POST /10/productos/18: ReferenceError: ddProductToCart is not defined"}
+{"level":"warn","message":"Error en la función addProductToCart"}
+{"level":"warn","message":"Error en la función addProductToCart"}
+{"level":"warn","message":"Error en la función addProductToCart"}
+{"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
+{"level":"warn","message":"Error en la función serviceProductsGetProductId"}
+{"level":"warn","message":"Error en la función serviceProductsGetProductId"}
+{"level":"warn","message":"Error en la función serviceProductsGetProductId"}
+{"level":"warn","message":"Error en ruta POST /: TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'Object'\n    --- property 'id' closes the circle"}
+{"level":"warn","message":"Error en la función serviceProductsGetProductId"}
+{"level":"warn","message":"Error en la función serviceProductsGetProductId"}
+{"level":"warn","message":"Error en la función serviceProductsGetProductId"}
+{"level":"warn","message":"Error en la función serviceProductsGetProductId"}
+{"level":"warn","message":"Error en la función serviceProductsGetProductId"}
+{"level":"warn","message":"Error en la función serviceProductsGetProductId"}
+{"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}
+{"level":"warn","message":"Ruta GET /favicon.ico no esta implementada"}

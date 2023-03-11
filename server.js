@@ -8,9 +8,7 @@ import bcrypt from "bcrypt"
 import dotenv from "dotenv"
 import os from "os"
 import cluster from "cluster"
-
 import { consoleLogger, fileLogger } from "./log/logger.js"
-
 import { routerProducts } from "./routes/routerProducts.js"
 import { routerCarts } from "./routes/routerCarts.js"
 import { routerLogin, routerFailLogin } from "./routes/auth/login.js"
@@ -18,8 +16,7 @@ import { routerFailRegister, routerRegister } from "./routes/auth/register.js"
 import { routerProfile } from "./routes/routerProfile.js"
 import {routerConfirm} from "./routes/routerConfirm.js"
 import { daoUsers, daoCarts } from "./daos/index.js"
-
-import { requireAuthentication } from "./routes/auth/require-auth.js"
+import { requireAuthentication } from "./controllers/auth/controllerRequireAuth.js" 
 import { sendMailRegister } from "./messages.js"
 
 //Get enviroment variables
@@ -71,7 +68,7 @@ passport.use("register", new LocalStrategy({
     passReqToCallback: true,
     usernameField: 'emailId',
     passwordField: 'password'
-}, (req, email, password, done) => {
+    }, (req, email, password, done) => {
 
     //Get request body
     const name = req.body.title
